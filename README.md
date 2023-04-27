@@ -36,7 +36,7 @@ Tijdens deze sessie geven wij 3 uitleg over hoe de studenten Industrieële ICT e
     <li>Open de terminal op je computer en navigeer naar de map waar je de geclonede repository wilt opslaan.</li>
     <li>Typ het volgende commando in de terminal: 'git clone https://github.com/tibogeeraerts/training-dbh'.</li>
     <li>Wacht tot de repository is gekloond naar je computer. Dit kan even duren, afhankelijk van de grootte van de repository.</li>
-    <li>Maak nu een nieuwe repository an op GitHub door naar je profielpagina te gaan en op de knop "New repository" te klikken.</li>
+    <li>Maak nu een nieuwe repository aan op GitHub door naar je profielpagina te gaan en op de knop "New repository" te klikken.</li>
     <li>Geef de nieuwe repository een naam en beschrijving en klik op "Create repository".</li>
     <li>Ga terug naar de terminal en navigeer naar de map war de gekloonde repository zich bevindt.</li>
     <li>Typ het volgende commando in de terminal: 'git remote set-url origin <new-repository-url>. Vervang '<new-repository-url>' door de URL van de nieuwe repository die je zojuist hebt aangemaakt.</li>
